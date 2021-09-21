@@ -2,9 +2,8 @@
 
 > **Bio do Projeto:**
 > 
-> *   Nome: (preencher)
-> *   Objetivo: (preencher)
-> *   (algo mais importante ...)
+> *   Nome: Gerenciador de Patentes
+> *   Objetivo: Auxiliar e facilitar a consulta e gerenciamento de patentes da UERJ e seus colaboradores
 > *   Seguindo etapas do ["PHP The right way"](https://leanpub.com/phptherightway/read)
 > 
 > **Branch**: [master](https://)
